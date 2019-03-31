@@ -1,15 +1,9 @@
 ## Welcome to my Page
 This is my Cyberhome.
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### likes
 
 I like to work with Security Related Stuff.I like to work with Static and Dynamic code Analysis.
-
-```markdown
-Syntax highlighted code block
 
 # My Graduation from **A.M.S College of Engineering**
 ## I love Cricket
