@@ -1,7 +1,7 @@
 ## Welcome to my Page
-This is my Cyberhome.
+#This is my Cyberhome.
 
-### likes
+### Likes
 
 I like to work with Security Related Stuff.I like to work with Static and Dynamic code Analysis.
 
@@ -15,7 +15,7 @@ I like to work with Security Related Stuff.I like to work with Static and Dynami
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**A**_R_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
